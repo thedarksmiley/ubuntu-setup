@@ -1,3 +1,4 @@
+cd ~
 sudo apt-get update && sudo apt update && sudo apt full-upgrade -y && sudo apt autoremove
 sudo add-apt-repository -y universe && sudo apt update
 sudo apt install -y cmatrix libglib2.0-dev dconf-cli nautilus gdebi python3 neofetch git nmap wget curl fonts-firacode
