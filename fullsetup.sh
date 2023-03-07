@@ -49,6 +49,8 @@ sudo snap install codium --classic
 sudo snap install nvim --classic
 sudo snap install android-studio --classic
 sudo apt install spyder -y
+sudo apt install tilix
+sudo snap install VLC
 sudo snap install jupyter
 sudo snap install arduino
 sudo snap install netbeans --classic
