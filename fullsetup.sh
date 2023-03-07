@@ -59,6 +59,7 @@ sudo snap install mysql-shell
 sudo apt install -y python3
 sudo apt-get -y install python3-pip
 sudo apt-get install -y mingw-w64
+sudo apt install /home/shivang/ubuntu-setup/whatsapp-webapp_1.0_all.deb
 sudo snap install node --classic
 sudo snap install flutter --classic
 sudo snap install notesnook
