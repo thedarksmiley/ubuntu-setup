@@ -81,3 +81,4 @@ sudo apt install fonts-firacode -y
 apt install zsh -y
 flutter
 flutter doctor --android-license
+bash zsh-setup.sh
