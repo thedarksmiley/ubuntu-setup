@@ -37,6 +37,7 @@ sudo apt install -y snapd
 sudo snap install snap-store
 sudo apt install flatpak -y
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+sudo apt install gnome-software-plugin-flatpak
 sudo apt install aptitude -y
 sudo snap install brave
 sudo snap install chromium
@@ -49,7 +50,7 @@ sudo snap install codium --classic
 sudo snap install nvim --classic
 sudo snap install android-studio --classic
 sudo apt install spyder -y
-sudo apt install tilix
+sudo apt install tilix -y
 sudo snap install VLC
 sudo snap install jupyter
 sudo snap install arduino
@@ -61,7 +62,8 @@ sudo snap install mysql-shell
 sudo apt install -y python3
 sudo apt-get -y install python3-pip
 sudo apt-get install -y mingw-w64
-sudo apt install /home/shivang/ubuntu-setup/whatsapp-webapp_1.0_all.deb
+sudo apt install /home/shivang/ubuntu-setup/whatsapp-webapp_1.0_all.deb -y
+sudo apt install /home/shivang/ubuntu-setup/jdk-11.0.17_linux-x64_bin.deb -y
 sudo snap install node --classic
 sudo snap install flutter --classic
 sudo snap install notesnook
@@ -82,3 +84,14 @@ apt install zsh -y
 flutter
 flutter doctor --android-license
 bash zsh-setup.sh
+flatpak install flathub org.jupyter.JupyterLab
+flatpak install flathub dev.lapce.lapce
+flatpak install flathub com.visualstudio.code-oss
+flatpak install flathub org.standardnotes.standardnotes
+flatpak install flathub io.github.mimbrero.WhatsAppDesktop
+flatpak install flathub com.google.ChromeDev
+flatpak install flathub com.microsoft.Edge
+flatpak install flathub org.inkscape.Inkscape
+flatpak install flathub com.github.IsmaelMartinez.teams_for_linux
+flatpak install flathub com.opera.Opera
+flatpak install flathub com.usebottles.bottles
