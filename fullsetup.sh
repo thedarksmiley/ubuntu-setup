@@ -1,6 +1,11 @@
 cd ~
 sudo apt-get update && sudo apt update && sudo apt full-upgrade -y && sudo apt autoremove
 sudo add-apt-repository -y universe && sudo apt update
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" -y
+(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/shivang/.profile
+    eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+sudo apt-get install build-essential 
+brew install gcc
 sudo apt install -y cmatrix libglib2.0-dev dconf-cli nautilus gdebi python3 neofetch git nmap wget curl fonts-firacode
 git config --global user.name "shivang gupta"
 git config --global user.email "shivang10799@gmail.com"
@@ -83,15 +88,15 @@ sudo apt install fonts-firacode -y
 apt install zsh -y
 flutter
 flutter doctor --android-license
-bash zsh-setup.sh
-flatpak install flathub org.jupyter.JupyterLab
-flatpak install flathub dev.lapce.lapce
-flatpak install flathub com.visualstudio.code-oss
-flatpak install flathub org.standardnotes.standardnotes
-flatpak install flathub io.github.mimbrero.WhatsAppDesktop
-flatpak install flathub com.google.ChromeDev
-flatpak install flathub com.microsoft.Edge
-flatpak install flathub org.inkscape.Inkscape
-flatpak install flathub com.github.IsmaelMartinez.teams_for_linux
-flatpak install flathub com.opera.Opera
-flatpak install flathub com.usebottles.bottles
+flatpak install flathub org.jupyter.JupyterLab -y
+flatpak install flathub dev.lapce.lapce -y
+flatpak install flathub com.visualstudio.code-oss -y
+flatpak install flathub org.standardnotes.standardnotes -y
+flatpak install flathub io.github.mimbrero.WhatsAppDesktop -y
+flatpak install flathub com.google.ChromeDev -y
+flatpak install flathub com.microsoft.Edge -y
+flatpak install flathub org.inkscape.Inkscape -y
+flatpak install flathub com.github.IsmaelMartinez.teams_for_linux -y
+flatpak install flathub com.opera.Opera -y
+flatpak install flathub com.usebottles.bottles -y
+bash /home/shivang/ubuntu-setup/zsh-setup.sh
