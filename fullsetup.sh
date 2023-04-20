@@ -34,7 +34,7 @@ git clone --depth=1 https://github.com/realmazharhussain/gdm-tools.git
 cd gdm-tools
 ./install.sh
 set-gdm-theme set WhiteSur-Dark-blue
-set-gdm-theme set -b /home/shivang/ubuntu-setup/6.jpg 
+set-gdm-theme set -b /home/shivang/ubuntu-setup/"rayons 10.png"
 cd ~
 sudo apt-get -y install build-essential
 sudo apt install -y snap
