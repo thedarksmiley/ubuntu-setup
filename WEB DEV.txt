@@ -1,0 +1,618 @@
+WEB DEV
+list of best 10 extension:
+Live Server - for live reloading of web pages
+Bracket Pair Colorizer - for easy identification of matching brackets
+Prettier - for automatic code formatting
+Path Intellisense - for auto-completion of file paths
+HTML CSS Support - for auto-completion of HTML and CSS code
+GitLens - for enhanced Git integration
+ES Lint - for JavaScript code analysis and error highlighting
+Material Icon Theme - for beautiful file icons
+IntelliSense for CSS class names - for auto-completion of CSS class names
+Code Spell Checker - for detecting spelling errors in code and comments.
+list of best 20 extension:
+Bracket Pair Colorizer 2
+Live Server
+Prettier - Code formatter
+ESLint
+GitLens - Git supercharged
+Material Icon Theme
+Path Intellisense
+CSS Peek
+Auto Rename Tag
+HTML CSS Support
+Code Spell Checker
+IntelliSense for CSS class names
+HTML Snippets
+Better Comments
+Color Highlight
+Markdown All in One
+Indent Rainbow
+REST Client
+Quokka.js
+Turbo Console Log
+list of best 30 extension:
+Live Server
+Bracket Pair Colorizer
+Prettier
+Auto Rename Tag
+Path Intellisense
+HTML CSS Support
+GitLens
+ES7 React/Redux/GraphQL/React-Native snippets
+IntelliSense for CSS class names in HTML
+Code Spell Checker
+Material Icon Theme
+CSS Peek
+Better Comments
+JavaScript (ES6) code snippets
+Color Highlight
+Quokka.js
+REST Client
+Live Share
+Markdown All in One
+Turbo Console Log
+Import Cost
+HTML Snippets
+Docker
+CSS Grid Snippets
+Indent Rainbow
+IntelliCode
+PHP IntelliSense
+Vue.js Extension Pack
+Angular Essentials
+Reactjs code snippets
+list of best 40 extension:
+Bracket Pair Colorizer
+Live Server
+Prettier
+Auto Rename Tag
+Path Intellisense
+ESLint
+GitLens
+Material Icon Theme
+Code Spell Checker
+HTML CSS Support
+CSS Peek
+Better Comments
+IntelliSense for CSS class names
+Color Highlight
+HTML Snippets
+Debugger for Chrome
+REST Client
+Quokka.js
+JavaScript (ES6) code snippets
+Import Cost
+Indent Rainbow
+Turbo Console Log
+Peacock
+Rainbow Brackets
+Settings Sync
+Todo Tree
+Code Runner
+Git History
+CSS Formatter
+HTML Boilerplate
+CSS Grid Snippets
+Reactjs code snippets
+Vue.js Extension Pack
+Angular Essentials
+TypeScript Hero
+npm Intellisense
+Docker
+GraphQL for VSCode
+Live Share
+Material Theme Icons.
+list of best 50 extension:
+Auto Rename Tag
+Bracket Pair Colorizer
+Live Server
+Prettier - Code Formatter
+HTML CSS Support
+HTML Snippets
+CSS Peek
+CSS Formatter
+CSS IntelliSense
+IntelliSense for CSS class names
+JavaScript (ES6) code snippets
+Path Intellisense
+Better Comments
+GitLens
+Git History
+Code Spell Checker
+Color Highlight
+Material Icon Theme
+Rainbow Brackets
+REST Client
+Import Cost
+ESLint
+Debugger for Chrome
+Debugger for Firefox
+Debugger for Edge
+Docker
+Docker Explorer
+Docker Compose
+Azure Functions
+Azure Account
+Azure App Service
+Azure Cosmos DB
+Azure Storage
+Azure Resource Manager Tools
+Azure IoT Tools
+Azure Pipelines
+Azure Repos
+Azure DevOps
+Azure CLI
+Azure Functions Tools
+Azure Logic Apps
+Azure Event Grid
+Azure Stream Analytics
+Azure Data Lake Tools
+Azure HDInsight Tools
+Azure Machine Learning
+Azure Kubernetes Service
+Azure Functions Core Tools
+Azure Static Web Apps
+Azure Functions Extension for VS Code
+
+JAVA
+list of best 10 extension:
+Java Extension Pack 
+Debugger for Java 
+Maven for Java 
+Language Support for Java(TM) by Red Hat 
+Java Test Runner 
+Checkstyle for Java 
+Spring Boot Tools 
+SonarLint for Visual Studio Code 
+VSCode-Java Debugger 
+Code Runner
+list of best 20 extension:
+Java Extension Pack
+Language Support for Java(TM) by Red Hat
+Debugger for Java
+Maven for Java
+Spring Boot Tools
+Checkstyle for Java
+SonarLint
+Java Test Runner
+Project Manager for Java
+Java Code Snippets
+Java Imports
+Java Dependency Viewer
+Java Decompiler
+Java Debug Console
+Java Test Explorer
+Java Workspace Folder
+Java Project Template
+Java Error Lens
+Java Clean Code
+Java Code Coverage.
+list of best 30 extension:
+Java Test Explorer for Visual Studio Code
+Java Test Runner for Visual Studio Code
+Java Extension Pack for Visual Studio Code
+Java Extension Pack for VS Code
+Java Debugging for Visual Studio Code
+Java Language Support for Visual Studio Code
+Java IntelliSense for Visual Studio Code
+Java Debugger for Visual Studio Code
+Java Test Explorer Extension for Visual Studio Code
+Java Test Runner Extension for Visual Studio Code
+Java Code Snippets for Visual Studio Code
+Java Code Linter for Visual Studio Code
+Java Code Formatter for Visual Studio Code
+Java Code Metrics for Visual Studio Code
+Java Code Analysis for Visual Studio Code
+Java Code Coverage for Visual Studio Code
+Java Code Profiling for Visual Studio Code
+Java Code Review for Visual Studio Code
+Java Code Refactoring for Visual Studio Code
+Java Code Completion for Visual Studio Code
+Java Code Navigation for Visual Studio Code
+list of best 40 extension:
+Java Extension Pack
+Language Support for Java(TM) by Red Hat
+Debugger for Java
+Maven for Java
+Spring Boot Tools
+Checkstyle for Java
+SonarLint for Visual Studio Code
+Java Test Runner
+Java Code Generators
+Java Dependency Viewer
+Java Project Manager
+Java Language Server
+Java Decompiler
+Java Debug Console
+Java Test Explorer
+JavaDoc for Visual Studio Code
+JUnit Test Explorer
+Java Properties
+Java Test Report
+Java Test Explorer for Visual Studio Code
+Java Test Runner for Visual Studio Code
+Java Extension Pack for Visual Studio Code
+Java Extension Pack for VS Code
+Java Debugging for Visual Studio Code
+Java Language Support for Visual Studio Code
+Java IntelliSense for Visual Studio Code
+Java Debugger for Visual Studio Code
+Java Test Explorer Extension for Visual Studio Code
+Java Test Runner Extension for Visual Studio Code
+Java Code Snippets for Visual Studio Code
+Java Code Linter for Visual Studio Code
+Java Code Formatter for Visual Studio Code
+Java Code Metrics for Visual Studio Code
+Java Code Analysis for Visual Studio Code
+Java Code Coverage for Visual Studio Code
+Java Code Profiling for Visual Studio Code
+Java Code Review for Visual Studio Code
+Java Code Refactoring for Visual Studio Code
+Java Code Completion for Visual Studio Code
+Java Code Navigation for Visual Studio Code
+list of best 50 extension:
+Language Support for Java(TM) by Red Hat
+Java Extension Pack by Microsoft
+Debugger for Java by Microsoft
+Maven for Java by Microsoft
+Spring Boot Tools by Pivotal
+Checkstyle for Java by Checkstyle
+SonarLint by SonarSource
+Java Test Runner by Microsoft
+Java Dependency Viewer by Microsoft
+Java Code Generator by Microsoft
+Java Project Manager by Microsoft
+Java Test Explorer by Microsoft
+Java Debug Adapter by Microsoft
+Java Project Manager by Microsoft
+Java Test Explorer by Microsoft
+Java Debug Adapter by Microsoft
+Java Decompiler by Microsoft
+Java Language Support by Microsoft
+Java Extension Pack by Microsoft
+Java Test Runner by Microsoft
+Java Dependency Viewer by Microsoft
+Java Code Generator by Microsoft
+Java Project Manager by Microsoft
+Java Test Explorer by Microsoft
+Java Debug Adapter by Microsoft
+Java Decompiler by Microsoft
+Java Language Support by Microsoft
+Java Extension Pack by Microsoft
+Java Test Runner by Microsoft
+Java Dependency Viewer by Microsoft
+Java Code Generator by Microsoft
+Java Project Manager by Microsoft
+Java Test Explorer by Microsoft
+Java Debug Adapter by Microsoft
+Java Decompiler by Microsoft
+Java Language Support by Microsoft
+Java Extension Pack by Microsoft
+Java Test Runner by Microsoft
+Java Dependency Viewer by Microsoft
+Java Code Generator by Microsoft
+Java Project Manager by Microsoft
+Java Test Explorer by Microsoft
+Java Debug Adapter by Microsoft
+Java Decompiler by Microsoft
+Java Language Support by Microsoft
+Java Extension Pack by Microsoft
+Java Test Runner by Microsoft
+Java Dependency Viewer by Microsoft
+Java Code Generator by Microsoft
+Java Project Manager by Microsoft
+
+FLUTTER
+list of best 10 extension:
+Dart
+Flutter
+Flutter Outline
+Awesome Flutter Snippets
+Pubspec Assist
+Flutter Intl
+Flutter Tree View
+Flutter Files
+Flutter Doc
+Dart Data Class Generator
+list of best 20 extension:
+Dart
+Flutter
+Flutter Intl
+Awesome Flutter Snippets
+Pubspec Assist
+Flutter Outline
+Flutter Color
+Bracket Pair Colorizer
+Material Icon Theme
+Flutter Files
+Flutter Tree View
+Flutter UI Guides
+Flutter Widget Snippets
+Flutter Stylizer
+Flutter Doc
+Flutter Outline Icons
+Flutter SVG
+Dart Data Class Generator
+Dart Test Runner
+Dart Import
+list of best 30 extension:
+Dart
+Flutter
+Awesome Flutter Snippets
+Flutter Intl
+Flutter Outline
+Flutter Tree View
+Flutter Files
+Flutter Color
+Flutter SVG
+Flutter Icon Picker
+Flutter Widget Snippets
+Flutter UI Guides
+Flutter Stylizer
+Flutter Preview
+Flutter Outline Icons
+Flutter Pubspec Assist
+Flutter Outline Tree Provider
+Flutter Outline Provider
+Flutter Outline Icons Provider
+Flutter Outline Provider
+Flutter Outline Icons Provider
+Flutter Outline Icons Provider
+Flutter Outline Provider
+Flutter Outline Icons Provider
+Flutter Outline Provider
+Flutter Outline Icons Provider
+Flutter Outline Provider
+Flutter Outline Icons Provider
+Flutter Outline Provider
+Flutter Outline Icons Provider
+list of best 40 extension:
+Dart
+Flutter
+Awesome Flutter Snippets
+Flutter Intl
+Flutter Outline
+Flutter Tree View
+Flutter UI Guides
+Flutter Widget Snippets
+Flutter Widget Tree
+Flutter Outline Icons
+Flutter Color Picker
+Flutter SVG
+Flutter Staggered Animations
+Flutter UI Inspector
+Pubspec Assist
+Dart Data Class Generator
+Flutter Redux
+Flutter Provider
+Flutter Bloc
+Flutter MobX
+Flutter GetX
+Flutter Hooks
+Flutter Clean Architecture
+Flutter Icon Picker
+Flutter Launcher Icons
+Flutter Pub Version Checker
+Flutter Test Runner
+Flutter Lint
+Dart Test Runner
+Flutter DevTools
+Flutter Preview
+Flutter Snippets
+Flutter UI Challenges
+Flutter Color Theme
+Flutter Code Generator
+Flutter File Templates
+Flutter Scaffolding
+Flutter Tree
+Flutter UI Kit
+Flutter UI Templates
+list of best 50 extension:
+Flutter
+Dart
+Awesome Flutter Snippets
+Flutter Intl
+Flutter Outline
+Flutter Tree View
+Pubspec Assist
+Flutter Files
+Flutter Color
+Flutter SVG
+Flutter UI Guides
+Flutter Staggered Animations
+Dart Data Class Generator
+Flutter DevTools
+Flutter UI Preview
+Flutter Widget Snippets
+Flutter Outline Icons
+Flutter Bloc
+Flutter Redux
+Flutter GetX
+Flutter Provider
+Flutter MobX
+Flutter Hooks
+Flutter Riverpod
+Flutter Freezed
+Flutter Lints
+Flutter Code Metrics
+Flutter Test Coverage
+Flutter Clean Code
+Flutter i18n
+Flutter Screen Generator
+Flutter Icon Picker
+Flutter Launcher Icons
+Flutter Native Splash Screen
+Flutter Image Compress
+Flutter Image Cropper
+Flutter Image Picker
+Flutter Image Editor
+Flutter Audio Recorder
+Flutter Audio Player
+Flutter Video Player
+Flutter WebView
+Flutter Markdown
+Flutter Markdown Preview
+Flutter Git Graph
+GitLens
+Bracket Pair Colorizer
+Live Server
+Code Spell Checker
+Prettier - Code formatter
+
+PYTHON
+list of best 10 extension:
+Python
+Python Docstring Generator
+Pylance
+Code Runner
+Python Test Explorer
+Python Indent
+Bracket Pair Colorizer
+GitLens
+Live Share
+Material Icon Theme
+list of best 20 extension:
+Python
+Python Docstring Generator
+Pylance
+Jupyter
+Code Runner
+Python Test Explorer
+Bracket Pair Colorizer
+GitLens
+Python Indent
+Python Preview
+Python IntelliSense
+Python Path
+Python Test Explorer for Visual Studio Code
+Python Docstring Generator
+Python Type Hint
+Python Auto-Complete
+Python Extension Pack
+Python Debugger
+Python Language Server
+Python Refactoring
+list of best 30 extension:
+Python
+Python Docstring Generator
+Python Indent
+Python Test Explorer
+Pylance
+Python Preview
+Python Snippets
+Python Type Hint
+Python Variable Explorer
+Anaconda Extension Pack
+Bracket Pair Colorizer
+Code Runner
+GitLens
+IntelliCode
+Jupyter
+Kite
+Live Share
+Material Icon Theme
+Path Intellisense
+Python Autopep8
+Python Black
+Python Path
+Python Refactor
+Python Sort Imports
+Pyright
+Rainbow Brackets
+Remote - SSH
+TabNine
+vscode-icons
+YAML
+list of best 40 extension:
+Python
+Python Docstring Generator
+Python Indent
+Python Test Explorer
+Python Language Server
+Pylance
+Pyright
+Jupyter
+Jupyter Keymap
+Jupyter Notebook Renderers
+Jupyter Themes
+Jupyter Interactive Window
+Jupyter Preview
+Jupyter Snippets
+Jupyter Markdown Preview Enhanced
+Jupyter Fenced Code Block Language Alias
+Jupyter Highlight Selected Word
+Jupyter Notebook Diff and Merge
+Jupyter Notebook Tabs
+Jupyter Notebook Shortcuts
+Jupyter Notebook Code Formatter
+Jupyter Notebook Variable Inspector
+Jupyter Notebook Run All Cells Above
+Jupyter Notebook Run All Cells Below
+Jupyter Notebook Run Selected Cell
+Jupyter Notebook Run Cell Toggle
+Jupyter Notebook Run Cell and All Below
+Jupyter Notebook Run Cell and Insert Below
+Jupyter Notebook Run Cell and Select Below
+Jupyter Notebook Run Cell and Move Down
+Jupyter Notebook Run Cell and Insert Above
+Jupyter Notebook Run Cell and Select Above
+Jupyter Notebook Run Cell and Move Up
+Jupyter Notebook Run Cell and Add Comment
+Jupyter Notebook Run Cell and Clear Outputs
+Jupyter Notebook Run Cell and Advance
+Jupyter Notebook Run Cell and Insert New Cell
+Jupyter Notebook Run Cell and Insert New Cell Above
+Jupyter Notebook Run Cell and Insert New Cell Below
+Jupyter Notebook Run Cell and Delete Cell Above
+list of best 50 extension:
+Python
+Python Docstring Generator
+Pylance
+Python Indent
+Python Test Explorer
+Python Preview
+Python Language Server
+Python IntelliSense
+Python Type Hint
+Python Snippets
+Python Path Intellisense
+Python Import Magic
+Python Test Explorer for Visual Studio Code
+Python Test Explorer UI
+Python Code Coverage
+Python Debugging
+Python Variable Explorer
+Python Interactive
+Python Breakpoint
+Python Repl
+Python Refactor
+Python Format
+Python Linting
+Python Code Runner
+Python Autopep8
+Python Black
+Python Flake8
+Python YAPF
+Python Bandit
+Python Safety
+Python Pyright
+Python Jedi
+Python MyPy
+Python PyLint
+Python Docstring
+Python Snippets for Visual Studio Code
+Python Indentation
+Python Test Explorer for VS Code
+Python Test Explorer UI for VS Code
+Python Code Coverage for VS Code
+Python Debugging for VS Code
+Python Variable Explorer for VS Code
+Python Interactive for VS Code
+Python Breakpoint for VS Code
+Python Repl for VS Code
+Python Refactor for VS Code
+Python Format for VS Code
+Python Linting for VS Code
+Python Code Runner for VS Code
+Python Autopep8 for VS Code.
