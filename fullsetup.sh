@@ -44,7 +44,6 @@ sudo snap install snap-store
 sudo apt install flatpak -y
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 sudo apt install gnome-software-plugin-flatpak
-sudo snap install brave
 sudo snap install chromium
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo apt install ./google-chrome-stable_current_amd64.deb
 sudo snap install code --classic
@@ -67,7 +66,8 @@ sudo apt install -y python3
 sudo apt-get -y install python3-pip
 sudo apt-get install -y mingw-w64
 sudo apt install /home/shivang/ubuntu-setup/whatsapp-webapp_1.0_all.deb -y
-sudo apt install /home/shivang/ubuntu-setup/jdk-11.0.17_linux-x64_bin.deb -y
+sudo apt install /home/shivang/ubuntu-setup/sgpt_1.13.0_amd64.deb -y
+sudo apt install /home/shivang/ubuntu-setup/plz-linux-x86_64.deb
 sudo snap install node --classic
 sudo snap install flutter --classic
 sudo snap install notesnook
@@ -75,7 +75,6 @@ sudo snap install joplin-desktop
 sudo snap install simplenote
 sudo snap install slack
 sudo snap install telegram-desktop
-sudo snap install discord
 sudo snap install zoom-clien
 sudo snap install github-gui
 sudo snap install spotify
@@ -92,22 +91,13 @@ sudo apt install curl
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
 sudo apt update
-sudo apt install brave-browser
-sudo apt install curl
-sudo curl -fsSLo /usr/share/keyrings/brave-browser-beta-archive-keyring.gpg https://brave-browser-apt-beta.s3.brave.com/brave-browser-beta-archive-keyring.gpg
-echo "deb [signed-by=/usr/share/keyrings/brave-browser-beta-archive-keyring.gpg] https://brave-browser-apt-beta.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-beta.list
-sudo apt update
-sudo apt install brave-browser-beta
 flatpak install flathub org.jupyter.JupyterLab -y
-flatpak install flathub com.visualstudio.code-oss -y
-flatpak install flathub org.standardnotes.standardnotes -y
 flatpak install flathub io.github.mimbrero.WhatsAppDesktop -y
-flatpak install flathub com.google.ChromeDev -y
 flatpak install flathub com.microsoft.Edge -y
 bash /home/shivang/ubuntu-setup/zsh-setup.sh
 flutter
 flutter doctor --android-license
 sudo apt install pipx
 pipx install gnome-extensions-cli --system-site-packages
- pipx ensurepath 
+pipx ensurepath 
 gnome-extensions-cli list
